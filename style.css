@@ -1,0 +1,25 @@
+body{
+	background-color: #FFDEAD;
+}
+
+.main{
+	width: 50%;
+	padding-left:25%;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	color: black;
+}
+
+.logo{
+	margin-left: 25px;
+}
+
+.tex {
+	padding: 15px;
+	color: #696969;
+}
